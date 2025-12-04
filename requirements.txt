@@ -1,0 +1,13 @@
+streamlit
+pytesseract
+opencv-python
+Pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+pytest
+paddlepaddle
+paddleocr
+easyocr

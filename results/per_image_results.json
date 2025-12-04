@@ -1,0 +1,245 @@
+[
+    {
+        "filename": "156387426414724544_1_wni.jpg",
+        "expected": "156387426414724544_1_wni",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 32.42194092827004
+    },
+    {
+        "filename": "160390797970200578_1_gsm.jpg",
+        "expected": "160390797970200578_1_gsm",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 31.53271028037383
+    },
+    {
+        "filename": "161462098390505344_1.jpg",
+        "expected": "161462098390505344_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 27.252173913043478
+    },
+    {
+        "filename": "161820476409495744_1.jpg",
+        "expected": "161820476409495744_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 33.92727272727273
+    },
+    {
+        "filename": "161827124813349056_1_bmd.jpg",
+        "expected": "161827124813349056_1_bmd",
+        "predicted": "+coapssST_GodadaraRTSCT)HOEEOAR1282890790FPL\u2014\u2014ie,Shadowfax,JAYENTERPRISEE.-Flyer:XXXXXXXKXK7581]840KRISHNAPARKOPPSHAARDASCHOOL,5,NEARBORDAFARM,PUNALAKEPUNAGAM,jSURAT,SURAT.At*Pracode:395010&iiY|FTPL4Cocoe:\u2018COID:161827124813249056_1_bmd>aaow:iPrasedby:Sour3Lecanensoa,veersoosed15/06/2520:283&,t*i/:\u2018",
+        "exact_match": false,
+        "character_accuracy": 0.14241486068111456,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 40.36134453781513
+    },
+    {
+        "filename": "161889931202248896_1_brz.jpg",
+        "expected": "161889931202248896_1_brz",
+        "predicted": "ST_GadalarsATSehRI280955716FPLTOYTRETAIL(Seller),B10KrishnaParkOPPShaarclaSchoolNearNBordaFarm,P,Surat,3950710GSTIN:24GDNPS7512B1ZHjqDivyaG(Customer)jitDelhi,Delhi,110020seksfinnnyUT1619&9931262248896_1_przFlyer:OXOCGPrintedby:NoneLocalion:DE._OkhlaPrintedon:17/)505if)JeclaraticnyoodsarebeingreturnedbodtesellerPictcustangePoypurtosad(ercesar!v#",
+        "exact_match": false,
+        "character_accuracy": 0.07567567567567568,
+        "rotation_used": 270,
+        "ocr_avg_confidence": 30.70063694267516
+    },
+    {
+        "filename": "162107205368239936_1_vrw.jpg",
+        "expected": "162107205368239936_1_vrw",
+        "predicted": "iaoiHappinesa\u2018DTOf||i!ilFlerCodeLastWHHandoverDate4ae9917ei234095357601330.VendorSHRETAILsE-wayBilLs)B10KrishnaParkOPPShaardaSchoolNearBordaFarm.PunaL):endorakePunagam,Surat.Gujarat,Pincode995010=NearBorda,Address:-Farm,PunaLakePunagamDestination|SRV*7\u00b0Chent|FIPL3m4__jPestinName:-;-qar5PoeiveryPincode:-|oxoro|eocomoTHINTETANY-\u00a5162107205368230936_1_vrwxTaeens,7-\u2122>a\u2122C~St",
+        "exact_match": false,
+        "character_accuracy": 0.11645569620253164,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 43.830882352941174
+    },
+    {
+        "filename": "162127075969633920_1.jpg",
+        "expected": "162127075969633920_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 270,
+        "ocr_avg_confidence": 20.545454545454547
+    },
+    {
+        "filename": "162533794288078400_1_ltw.jpg",
+        "expected": "162533794288078400_1_ltw",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 27.641509433962263
+    },
+    {
+        "filename": "162563926371110528_1_rcr.jpg",
+        "expected": "162563926371110528_1_rcr",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 34.6985294117647
+    },
+    {
+        "filename": "162590579457558528_1.jpg",
+        "expected": "162590579457558528_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 32.75438596491228
+    },
+    {
+        "filename": "162822952260583552_1.jpg",
+        "expected": "162822952260583552_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 39.6986301369863
+    },
+    {
+        "filename": "163138358833942080_1_tdd.jpg",
+        "expected": "163138358833942080_1_tdd",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 35.43975903614458
+    },
+    {
+        "filename": "163167305864402752_1_ahr.jpg",
+        "expected": "163167305864402752_1_ahr",
+        "predicted": "ST_Godadara_RTSUNOTAANRi2c29s961OFPLJAYENTERPRISEE(Seller)B10KRISHNAPARKOPPSHAARDASCHOOL,NEARBORDAFARM,,SURAT,395010GSTIN:24BGNPR5282D126BhavynaE(Customer)Hyderabad,Telangana,500076CRLLL163167365864402752_1_ahrFlyer:WNNCOONNT60Printedby:NoneLocation:Hyd_Mallapur_EPrintedon:17/06/2520:06lyratioequadsoreCE7pTEMEdtOWGellerertaytadpetoned(yperayal",
+        "exact_match": false,
+        "character_accuracy": 0.0975609756097561,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 30.736842105263158
+    },
+    {
+        "filename": "163168391573114432_1_iro.jpg",
+        "expected": "163168391573114432_1_iro",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 32.267605633802816
+    },
+    {
+        "filename": "163233702292313922_1_lwv.jpg",
+        "expected": "163233702292313922_1_lwv",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 34.233082706766915
+    },
+    {
+        "filename": "163253278646505088_1_oqm.jpg",
+        "expected": "163253278646505088_1_oqm",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 28.906976744186046
+    },
+    {
+        "filename": "163278430531063296_1_c's.jpg",
+        "expected": "163278430531063296_1_c's",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 31.96551724137931
+    },
+    {
+        "filename": "163513920653659776_1_zqw.jpg",
+        "expected": "163513920653659776_1_zqw",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 35.625
+    },
+    {
+        "filename": "163575804188803200_1.jpg",
+        "expected": "163575804188803200_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 270,
+        "ocr_avg_confidence": 36.70103092783505
+    },
+    {
+        "filename": "163629705512179520_1_lps.jpg",
+        "expected": "163629705512179520_1_lps",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 28.244274809160306
+    },
+    {
+        "filename": "163869082838745216_1.jpg",
+        "expected": "163869082838745216_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 180,
+        "ocr_avg_confidence": 33.88549618320611
+    },
+    {
+        "filename": "164010403918364801_1_dx'.jpg",
+        "expected": "164010403918364801_1_dx'",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 270,
+        "ocr_avg_confidence": 24.1125
+    },
+    {
+        "filename": "164032400488224576_1.jpg",
+        "expected": "164032400488224576_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 45.544117647058826
+    },
+    {
+        "filename": "164219522434499264_1.jpg",
+        "expected": "164219522434499264_1",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 23.795454545454547
+    },
+    {
+        "filename": "164659046174134464_1_kuu.jpg",
+        "expected": "164659046174134464_1_kuu",
+        "predicted": "",
+        "exact_match": false,
+        "character_accuracy": 0.0,
+        "rotation_used": 90,
+        "ocr_avg_confidence": 38.23841059602649
+    },
+    {
+        "filename": "164712656358576320_1_.jpg",
+        "expected": "164712656358576320_1_",
+        "predicted": "DeliveryPincode:eHub:-Oees}<XPRa\u2018coVendor610Knahna&Address:-arkOPPShaardaSchuulNearBorda$veewakePunagamSuratayaa!Pursode395010NowbotF;afm\"\u2018:SHT/RTDestination0|seeoro|wornovaesHTTLIIEMEEbiLEATZES63000/6520_1_",
+        "exact_match": false,
+        "character_accuracy": 0.07894736842105263,
+        "rotation_used": 0,
+        "ocr_avg_confidence": 29.29813664596273
+    }
+]
