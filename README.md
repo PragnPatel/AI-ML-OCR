@@ -13,7 +13,7 @@ This application allows users to upload an image and extract text using modern O
 - 🧹 **Automatic preprocessing** for better OCR accuracy
 - ⚡ **Fast inference**
 - 🌐 **Runs as a simple Streamlit web application**
-- 🖥️ **Works locally** or deploys easily to Streamlit Cloud / Docker
+- 🖥️ **Works locally** or deploys easily to Streamlit Cloud 
 
 ---
 
@@ -193,18 +193,6 @@ Use any sample image containing text and upload it.
 
 ## 📊 Technical Details
 
-### OCR Engines Comparison
-
-| Feature | PaddleOCR | Tesseract |
-|---------|-----------|-----------|
-| **Accuracy** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Speed** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Handwriting Support** | ✅ | ❌ |
-| **Language Support** | 80+ | 100+ |
-| **Memory Usage** | Medium | Low |
-| **Model Size** | ~100MB | Minimal |
-
----
 
 ## 🔧 Configuration & Customization
 
@@ -336,31 +324,7 @@ Based on standard OCR datasets:
 4. Select your repository and `app.py`
 5. Deploy! 🎉
 
-### Deploy with Docker
 
-Create `Dockerfile`:
-
-```dockerfile
-FROM python:3.10-slim
-
-WORKDIR /app
-
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-
-COPY . .
-
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
-```
-
-Run:
-
-```bash
-docker build -t ocr-app .
-docker run -p 8501:8501 ocr-app
-```
-
----
 
 ## 📚 Additional Resources
 
@@ -394,7 +358,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 For issues, questions, or feedback:
 
 1. **GitHub Issues:** Create an issue in the repository
-2. **Email:** [Your email here]
+2. **Email:** p3pragnpatel@gmail.com
 3. **Discussions:** Start a discussion for general questions
 
 ---
